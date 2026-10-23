@@ -12,7 +12,7 @@ title                    : "Climate AI Nordics"
 title_separator          : "-"
 name                     : &name "Climate AI Nordics"
 description              : &description "personal description"
-url                      : https://climateainordics.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://cain-preview.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "climateainordics/climateainordics.github.io"
 
